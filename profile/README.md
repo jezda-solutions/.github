@@ -23,6 +23,10 @@ Website: [jezda.net](https://jezda.net/en/)
 
 Soletis BV (Belgium) grew to a four-developer team in Serbia with us. More named cases, including Bisa Market and Kaizen Ticketing, are in our [success stories](https://jezda.net/en/success-stories/).
 
+## Open source
+
+[common-libs](https://github.com/jezda-solutions/common-libs): reusable .NET libraries for repositories, Unit of Work, domain models, helpers and integrations, MIT-licensed and [published on NuGet](https://www.nuget.org/packages?q=Jezda.Common).
+
 ## Company
 
 - Founded 28 February 2018
